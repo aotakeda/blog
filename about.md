@@ -1,18 +1,15 @@
 ---
-title: Colophon
-permalink: /about/
+title: Sobre - Arthur Takeda
+permalink: /sobre/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Meu nome é Arthur Takeda e criei esse blog pra compartilhar o que estou aprendendo sobre engenharia de software.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Desde a quinta série quando comecei a programar alguns bots pra usar no mIRC, até o ensino médio quando criei um site dedicado a traduzir mangás de graça, sempre fui conectado a tecnologia.
 
-If you have a question about him or else, just send a letter to him.
+Apesar da minha primeira formação e experiência ser com turismo, tendo oportunidade de receber uma bolsa integral do governo para um intercâmbio educacional de 3 meses em Newcastle, na Inglaterra, fiz a mudança de área em 2017.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+Desde então, tenho trabalhado no mundo de startups de tecnologia desde early-stage até scale-ups de crescimento exponencial, passando pela Udacity, QuintoAndar, Wildlife Studios (TFG quando entrei) e atualmente no Nubank.
 
-**may u needs ✨**
-
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+Transitei por algumas áreas: engenharia de software, suporte, performance marketing e atualmente trabalho dentro do time de talent acquisition como technical sourcer. 

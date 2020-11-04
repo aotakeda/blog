@@ -3,6 +3,7 @@ title: Arthur Takeda - Site pessoal # site title
 description: >- # site description
   Escrevendo sobre engenharia de software e talvez outras coisas.
   Alguns projetinhos <a href="https://github.com/aotakeda/" target="_blank" rel="noopener">aqui no github</a>.
+  Meu CV atualizado <a href="https://linkedin.com/in/arthurtakeda/" target="_blank" rel="noopener">aqui no linkedin</a>.
 lang: pt-BR # default lang
 timezone: Asia/Jakarta # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -15,6 +16,7 @@ author:
   bio: >- # tell to the world
     Escrevendo sobre engenharia de software e talvez outras coisas.
     Alguns projetinhos <a href="https://github.com/aotakeda/" target="_blank" rel="noopener">aqui no github</a>.
+    Meu CV atualizado <a href="https://linkedin.com/in/arthurtakeda/" target="_blank" rel="noopener">aqui no linkedin</a>.
   username: username # general username
   github: aotakeda # github username
   twitter: twitter_username # twitter username
