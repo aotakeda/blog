@@ -1,7 +1,6 @@
 ---
 title: O que é confiabilidade ou reliability?
 date: 2020-11-04 12:20:47 -03:00
-tags: [confiabilidade, reliability]
 description: O que faz um software ser considerado confiável, quais falhas são aceitáveis?
 ---
 
