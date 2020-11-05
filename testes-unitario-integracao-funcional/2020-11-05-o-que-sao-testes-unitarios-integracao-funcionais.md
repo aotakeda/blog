@@ -1,30 +1,35 @@
 ---
-title: O que são e qual a importância de testes unitários, de integração e funcionais?
+title: O que são e qual a importância de testes unitárioS?
 date: 2020-11-05 08:11:47 -03:00
-description: O que são os diferentes tipos de testes e o porquê eles são importantes.
+description: O que são, como fazer e qual a importância de testes unitários.
 ---
 
-## Testes unitários
-
-**O que são**
+## O que são
 
 Os testes unitários servem para testar uma única parte do seu software (por isso chama unitário, de unidade). Ou seja, verifica o comportamento de uma unidade da aplicação, de forma `independente` de outras partes do software.
 
-## Testes de integração
+## As 3 fases 
 
-**O que são**
+Um teste unitário geralmente é dividido em três partes:
 
-Os testes de integração servem para testar a interação do seu código com outros sistemas, por exemplo, digamos que seja necessário o software comunicar com um sistema terceiro. Um teste de integração comprovaria que a comunicação entre os dois sistemas deu certo ou não.
+1. Inicializar a unidade da aplicação que vai ser testada (`SUT - System Under Test`);
+2. Estimular o sistema;
+3. Observar o resultado.
 
-Esse tipo de teste pode envolver não só a criação do teste em si mas também ambientes de testes.
+Essas três partes são conhecidas como `AAA` - Arrange, Act e Assert.
 
-## Testes funcionais
+## Quais aspectos são verificados
 
-**O que são**
+Os testes unitários no geral testam dois tipos de comportamentos:
 
-Os testes funcionais serve para validar que o sistema como um todo, funciona (do ponto de vista do usuário) segundo os requisitos e especificações definidos.
+1. Baseado em estado;
+2. Baseado em interações.
 
-## A importância dos testes
+Se o que for testado produzir resultados ou o estado for correto, o tipo de teste unitário é `baseado em estado`.
+
+Se o que for testado é a invocação dos métodos corretos, o tipo de teste unitário é `baseado em interações`.
+
+## A importância dos testes unitários
 
 Muitas pessoas desenvolvedoras de software não dão muita importância para os testes unitários, por exemplo, com motivação de "saber que o código funciona" ou de "não tenho tempo pra fazer isso".
 
